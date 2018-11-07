@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: number-formater
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: stepa
+Implementation-Vendor-Id: cz.stepanbohm.moneta
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/number-formater
+Created-By: Maven Integration for Eclipse
+
